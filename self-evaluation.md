@@ -1,0 +1,3 @@
+1. I feel ok with the array material so far, obviously there is a ton more to learn about arrays, they seem like an incredibly useful tool and I'm sure we've barely scratched the surface of what you can do with them.
+1. I am going to do some reading and googling on my own about arrays for sure on other methods that can be used to evaluate arrays.
+1. No questions at this time, but I hope to have some more questions to ask regarding them during our sessions monday!
